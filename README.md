@@ -1,2 +1,2 @@
 # RusteyLogger
-A simple keylogger in Rust
+A simple keylogger client in Rust
